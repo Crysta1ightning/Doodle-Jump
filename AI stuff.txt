@@ -1,0 +1,11 @@
+Inputs: doodle x, y platform x, y
+
+Outputs: go left or right
+
+Activation Function: TanH
+
+Population Size: 20
+
+Fitness Function: score
+
+Max Generations: 100
